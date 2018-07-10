@@ -1,0 +1,111 @@
+body {
+	font-family: 'Segoe UI', sans-serif;
+	padding: 0;
+	margin: 0;
+	background: #485164;
+	color: #fff;
+	padding: 164px 125px;
+}
+
+div,span,button,a,form,p {
+	box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	box-sizing: border-box;
+	font-weight: bold;
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+.heading__intro {
+	font-size: 22px;
+	margin-top: 15px;
+}
+
+.case {
+	padding-top: 100px;
+	color: #485164;
+}
+
+.case_wrap {
+	background: #5B6375;
+	padding: 51px;
+}
+
+.case__title {
+	font-size: 20px;
+	color: #8BABEF;
+	margin-bottom: 65px; 
+}
+
+.case__card {
+	background: #fff;
+	width: 264px;
+	padding: 30px;
+	margin: 51px;
+}
+
+.case__img {
+	height: 129px;
+	background: #E5E5E5;
+	margin-bottom: 22px;
+}
+
+.case__card-title {
+	font-size: 16px;
+	margin-bottom: 14px;
+}
+
+.case__text {
+	font-size: 13px;
+}
+
+.case__holder {
+	margin-top: 25px;
+}
+
+.d-flex {
+	display: -webkit-inline-flex;
+	display: -moz-inline-flex;
+	display: -ms-inline-flex;
+	display: -o-inline-flex;
+	display: inline-flex;
+}
+
+.case__btn {
+	width: 26px;
+	height: 26px;
+	margin-right: 14px;
+}
+
+.case__btn_pink {
+	background: #FC69A9;
+}
+
+.case__btn_blue {
+	background: #00FFFF;
+}
+
+.case__btn_green {
+	background: #7CFC00;
+}
+
+.btn-holder {
+
+}
+
+.btn-holder__item {
+	font-weight: bold;
+	font-size: 15px;
+	color: #fff;
+	width: 209px;
+	padding: 15px;
+}
